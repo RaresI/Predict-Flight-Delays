@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 *.log
 .DS_Store
+SEM Project Details*.pdf
 
 data/raw/*
 !data/raw/.gitkeep
