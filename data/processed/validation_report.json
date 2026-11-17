@@ -1,0 +1,49 @@
+{
+  "final_records": 1356303,
+  "input_feature_count": 27,
+  "date_min": "2025-01-01",
+  "date_max": "2025-12-31",
+  "origin_count": 5,
+  "origins": [
+    "ATL",
+    "DEN",
+    "DFW",
+    "JFK",
+    "ORD"
+  ],
+  "carrier_count": 14,
+  "delay_rate_percent": 25.32,
+  "duplicate_flight_ids": 0,
+  "weather_match_percent": 99.95,
+  "missing_percent": {
+    "precipitation": 0.05,
+    "destination": 0.0,
+    "pressure_msl": 0.05,
+    "wind_speed_10m": 0.05,
+    "snowfall": 0.05,
+    "origin_latitude": 0.0,
+    "wind_direction_10m": 0.05,
+    "temperature_2m": 0.05,
+    "relative_humidity_2m": 0.05,
+    "scheduled_departure_hour": 0.0,
+    "flight_number": 0.0,
+    "day_of_week": 0.0,
+    "scheduled_departure_time": 0.0,
+    "cloud_cover": 0.05,
+    "month": 0.0,
+    "weather_code": 0.05,
+    "origin": 0.0,
+    "carrier": 0.0,
+    "origin_longitude": 0.0,
+    "rain": 0.05,
+    "wind_gusts_10m": 0.05,
+    "distance": 0.0
+  },
+  "weather_range_checks": {
+    "relative_humidity_outside_0_100": 0,
+    "wind_speed_negative": 0,
+    "precipitation_negative": 0
+  },
+  "validation_errors": [],
+  "validation_passed": true
+}
